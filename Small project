@@ -1,0 +1,4 @@
+print("⏔⏔⏔ ꒰ ᧔ Calculator ᧓ ꒱ ⏔⏔⏔")
+n1 = float(input("Insert a number : "))
+sym = input("Choose a symbol (+, -, *, /) : ")
+n2 = float(input("Insert a number : "))
