@@ -18,3 +18,7 @@ else:
 print("Result : ", result)
 print("· · ─ ·ʚɞ· ─ · ·")
 
+## Small project
+- Calculator program 
+โปรแกรมนี้เขียนด้วยภาษา Python 
+และเขียนเพื่อฝึกการใช้ if-else และการรับค่า
