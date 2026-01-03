@@ -1,0 +1,60 @@
+## cafe
+print('.☘︎  Welcome to our cafe ⋆✮')
+print('Please take a look of our menu (๑ᵔ⤙ᵔ๑)')
+print('You can only use this program for one by one')
+print('Menu :')
+d1 = "1. Matcha latte"
+d2 = "2. Black coffee"
+d3 = "3. Orange juice"
+d4 = "4. Tiramisu cake"
+d5 = "5. Waffle"
+p1 = 45
+p2 = 30
+p3 = 25
+p4 = 45
+p5 = 35
+print(d1, p1, '฿')
+print(d2, p2, '฿')
+print(d3, p3, '฿')
+print(d4, p4, '฿')
+print(d5, p5, '฿')
+
+select = input('Please select a drink/dessert : ')
+if select == "1" :
+    print("Matcha latte", p1, '฿')
+    print('Total : ', p1, '฿')
+    print("Thanks for buying")
+    print('Please re-use this program if you need drink/dessert')
+    
+    
+elif select == "2" :
+    print("Black coffee", p2, '฿')
+    print('Total : ', p2, '฿')
+    print("Thanks for buying")
+    print('Please re-use this program if you need drink/dessert')
+    
+    
+elif select == "3" :
+    print("Orange juice", p3, '฿')
+    print('Total : ', p3, '฿')
+    print("Thanks for buying")
+    print('Please re-use this program if you need drink/dessert')
+    
+    
+elif select == "4" :
+    print("Tiramisu cake", p4, '฿')
+    print('Total : ', p4, '฿')
+    print("Thanks for buying")
+    print('Please re-use this program if you need drink/dessert')
+    
+    
+elif select == "2" :
+    print("Waffle", p5, '฿')
+    print('Total : ', p5, '฿')
+    print("Thanks for buying")
+    print('Please re-use this program if you need drink/dessert')
+    
+    
+else:
+    print("Error, Please try again")
+print("------------------------------------------------------")
