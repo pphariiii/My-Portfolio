@@ -4,6 +4,6 @@
 - Name : Pharimada Kromthana (Atom)
 - BDAY : 30/03/2010 ⸜(｡˃ ᵕ ˂ )⸝♡
 - Now studying at ⤷ ゛Rayongwittayakom School ˎˊ˗
-- I’m learning: Python ★
-- 📫 Reach me at: pphariiii@gmail.com
+- I’m learning : Python ★
+- 📫 Reach me at : pphariiii@gmail.com
   
