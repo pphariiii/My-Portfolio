@@ -1,0 +1,135 @@
+## concert ticket 
+print("Welcome to out ticket company ◝ ⩊ ◜.ᐟ ")
+print("Now available :")
+print("───────────────")
+s1 = "BOYNEXTDOOR Knock on Vol.2"
+s2 = "TXT ACT.PROMISE"
+s3 = "ENHYPEN Walk The Line"
+s4 = "DOMINATE SKZ"
+s5 = "NESTFEST GOT7"
+print("1", s1)
+print("2", s2)
+print("3", s3)
+print("4", s4)
+print("5", s5)
+print("──── ୨୧ ────")
+con = input("Choose your stage (1/2/3/4/5) : ")
+if con == "1" :
+    print("Now chosen : ", s1)
+    print("Available zone : A1/A2/A3/VIP")
+    seat = input("Please choose a zone : ")
+    if seat == "A1" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s1, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    elif seat == "A2" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s1, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    elif seat == "A3" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s1, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    else:
+        print("Randoming seat number . . .")
+        print(s1, ", zone :",seat, ", You can check your seat number in your email")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+elif con == "2" :
+    print("Now chosen : ", s2)
+    print("Available zone : A1/A2/A3/VIP")
+    seat = input("Please choose a zone : ")
+    if seat == "A1" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s2, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    elif seat == "A2" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s2, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    elif seat == "A3" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s2, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    else:
+        print("Randoming seat number . . .")
+        print(s2, ", zone :",seat, ", You can check your seat number in your email")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+elif con == "3" :
+    print("Now chosen : ", s3)
+    print("Available zone : A1/A2/A3/VIP")
+    seat = input("Please choose a zone : ")
+    if seat == "A1" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s3, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    elif seat == "A2" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s3, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    elif seat == "A3" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s3, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    else:
+        print("Randoming seat number . . .")
+        print(s3, ", zone :",seat, ", You can check your seat number in your email")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+elif con == "4" :
+    print("Now chosen : ", s4)
+    print("Available zone : A1/A2/A3/VIP")
+    seat = input("Please choose a zone : ")
+    if seat == "A1" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s4, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    elif seat == "A2" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s4, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    elif seat == "A3" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s4, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    else:
+        print("Randoming seat number . . .")
+        print(s4, ", zone :",seat, ", You can check your seat number in your email")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+elif con == "5" :
+    print("Now chosen : ", s5)
+    print("Available zone : A1/A2/A3/VIP")
+    seat = input("Please choose a zone : ")
+    if seat == "A1" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s5, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    elif seat == "A2" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s5, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+    elif seat == "A3" :
+        print("Please select a seat (1-10)")
+        seat2 = input("Seat number : ")
+        print(s5, ", zone :",seat, ", Seat number",seat2, "is now booked")
+        print("Thanks for booking! Hope you enjoy your concert .☘︎ ݁˖")
+    else:
+        print("Randoming seat number . . .")
+        print(s5, ", zone :",seat, ", You can check your seat number in your email")
+        print("Thanks for booking! Hope you enjoy your concert .☘︎ ݁˖")
+else:
+    print("⤷ ゛Please try again ˎˊ˗")
+        
+        
