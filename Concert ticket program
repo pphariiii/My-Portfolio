@@ -131,5 +131,7 @@ elif con == "5" :
         print("Thanks for booking! Hope you enjoy your concert .☘︎ ݁˖")
 else:
     print("⤷ ゛Please try again ˎˊ˗")
+
+## ลองคคิดระบบการจองบตรคอนเสิร์ต + พัฒนาทักษะการคิดเป็นระบบ
         
         
