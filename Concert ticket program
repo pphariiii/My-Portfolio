@@ -145,6 +145,13 @@ This made me feel uncertain and worried about making mistakes during the booking
 It aims to simplify the booking process by clearly summarizing seat zones, prices, and confirmation steps
 so that users can make decisions with more confidence and less stress.
 
+## Program flow :
+- The user selects a concert.
+- The user selects a seat zone.
+- The system displays the available zones.
+- The user selects a seat number.
+- The system summarizes all booking informaion.
+
 ## Process : I started by reflecting on my own experience as a user and identifying the main pain points in existing booking systems.
 Then, I broke the booking process into clear steps from a user's perspective.
 After designing the program flow, I implemented the system using Python based on this structure.
