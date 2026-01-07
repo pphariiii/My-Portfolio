@@ -4,9 +4,10 @@
 - Name : Pharimada Kromthana (Atom)
 - BDAY : 30/03/2010 ⸜(｡˃ ᵕ ˂ )⸝♡
 - Now studying at ⤷ ゛Rayongwittayakom School ˎˊ˗
-- I’m learning : Python ★
-- Goal : อยากพัฒนาทักษะด้าน Technology + Design  
-เพื่อนำไปสร้างนวัตกรรมที่มีประโยชน์ต่อสังคม
+- Interests : UX/UI, Product design, Technology, Social impact
+- Currently learning Python and exploring digital innovation
+ through real user problems.
+- Goal : To develop technology and design skills to create meaningful digital innovations for society.
 - 📫 Reach me at : pphariiii@gmail.com
   ## My Projects!
 - Calculator Program  
