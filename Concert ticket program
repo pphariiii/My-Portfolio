@@ -132,16 +132,37 @@ elif con == "5" :
 else:
     print("⤷ ゛Please try again ˎˊ˗")
 
+## Project overview : This project is a simulated concert ticket booking system developed using Python.
+The main objective is to design a booking process that is simple, clear, and user-friendly.
+The system focuses on presenting seat zones, pricing, and booking confirmation steps in a structured way to reduce user confusion.
 
-## Problem : ระบบจองบัตรคอนเสิร์ตมีขั้นตอนที่ซับซ้อนและข้อมูลจำนวนมาก  
-ทำให้ผู้ใช้เกิดความสับสนและไม่มั่นใจในการจองบัตร
-## Goal : ออกแบบระบบจองบัตรคอนเสิร์ตให้เข้าใจง่าย โดยสรุปข้อมูลโซนที่นั่ง ราคา และขั้นตอนการยืนยันการจอง  
-เพื่อเพิ่มความมั่นใจให้ผู้ใช้
-## Process : วิเคราะห์ขั้นตอนของระบบจองบัตรทีละขั้น ออกแบบลำดับการทำงานของโปรแกรมให้เป็นระบบ และเขียนโค้ดตาม flow ที่วางไว้
+
+## Problem : From my personal experience booking concert tickets, I found that many systems are cinfushing and stressful to use.
+As a user, I often faced too many steps, scattered information, and unclear seat and price details.
+This made me feel uncertain and worried about making mistakes during the booking process
+
+## Goal : The goal of this project is to design a concert ticket booking system based on real user experience.
+It aims to simplify the booking process by clearly summarizing seat zones, prices, and confirmation steps
+so that users can make decisions with more confidence and less stress.
+
+## Process : I started by reflecting my own experience as a user and identifying the main pain points in existing booking systmes.
+Then, I broke the booking process into clear steps from a user's perspective.
+After designing the program flow, I implemented the system using Python based on this structure.
+
 ## What I learned : 
-- การคิดเป็นระบบและวิเคราะห์ปัญหาเป็นขั้นตอน  
-- การออกแบบโปรแกรมจากมุมมองของผู้ใช้  
-- การวางลำดับการทำงานของระบบให้เข้าใจง่าย
+- How to identify problems from real user experiences.
+- The importance of designing digital systems from a user-centered perspective.
+- How planning a clear program flow beofre coding improves usability and clarity.
+
 ## Tool : VS CODE, Online python
-## Next step : ลองเพิ่มโซนที่นั่ง มีการตรวจสอบหมายเลขโทรศัพท์/เมลของผู้ใช้ พัฒนาความสมจริงของระบบให้ใกล้เคียงการใช้งานจริง
+
+## Target user :
+- Users who want to book concert tickets
+- General users who are not comfortable with complex online systems.
+
+## Next step : 
+- Add more seat zones and options based on different user preferences.
+- Implement phone number and email validation to reduce user errors.
+- Add real-time seat availability to reflect real booking scenarios.
+- Further improve the system based on potentail user feedback.
         
