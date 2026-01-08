@@ -1,0 +1,93 @@
+## my dogs history
+name = input("Please insert your name: ")
+pname = input("Please insert your pet's name: ")
+a = "Pet's personal history"
+b = "Medical history"
+
+if pname == "Kaitoon" :
+    print("Hello",name,",How can I help you with your pet,", pname,"?")
+    print("1.Pet's personal history")
+    print("2.Medical history")
+    h = input("Insert 'a' or 'b': ")
+    if h == "a" :
+        print("Name:",pname)
+        print("Birthday: 10/09/2021")
+        print("Age: 5 y/o")
+        print("Gender: Female")
+    elif h == "b" :
+        print("Medical histor not found")
+        exit()
+    else:
+        print("ERROR, please try again")
+        exit()
+        
+elif pname == "Taohu" :
+    print("Hello," ,name,",How can I help you with your pet,", pname,"?")
+    print("1.Pet's personal history")
+    print("2.Medical history")
+    h = input("Insert 'a' or 'b': ")
+    if h == "a" :
+        print("Name:",pname)
+        print("Birthday: 20/05/2024")
+        print("Age: 2 y/o")
+        print("Gender: Male")
+    elif h == "b" :
+        print("Medical histor not found")
+        exit()
+    else:
+        print("ERROR, please try again")
+        exit()
+        
+elif pname == "Fongfong" :
+    print("Hello," ,name,",How can I help you with your pet,", pname,"?")
+    print("1.Pet's personal history")
+    print("2.Medical history")
+    h = input("Insert 'a' or 'b': ")
+    if h == "a" :
+        print("Name:",pname)
+        print("Birthday: 08/09/2025")
+        print("Age: 0.4 y/o")
+        print("Gender: Male")
+    elif h == "b" :
+        print("Medical histor not found")
+        exit()
+    else:
+        print("ERROR, please try again")
+        exit()
+        
+elif pname == "Fongfu" :
+    print("Hello," ,name,",How can I help you with your pet,", pname,"?")
+    print("1.Pet's personal history")
+    print("2.Medical history")
+    h = input("Insert 'a' or 'b': ")
+    if h == "a" :
+        print("Name:",pname)
+        print("Birthday: 08/09/2024")
+        print("Age: 0.4 y/o")
+        print("Gender: Female")
+    elif h == "b" :
+        print("Medical histor not found")
+        exit()
+    else:
+        print("ERROR, please try again")
+        exit()
+        
+elif pname == "Fufu" :
+    print("Hello," ,name,",How can I help you with your pet,", pname,"?")
+    print("1.Pet's personal history")
+    print("2.Medical history")
+    h = input("Insert 'a' or 'b': ")
+    if h == "a" :
+        print("Name:",pname)
+        print("Birthday: 08/09/2025")
+        print("Age: 0.4 y/o")
+        print("Gender: Male")
+    elif h == "b" :
+        print("Medical histor not found")
+        exit()
+    else:
+        print("ERROR, please try again")
+        exit()
+else:
+    print("Couldn't find your pet name, please try again")
+    exit()
