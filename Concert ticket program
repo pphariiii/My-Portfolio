@@ -1,5 +1,5 @@
 ## concert ticket 
-print("Welcome to out ticket company ◝ ⩊ ◜.ᐟ ")
+print("Welcome to our ticket company ◝ ⩊ ◜.ᐟ ")
 print("Now available :")
 print("───────────────")
 s1 = "BOYNEXTDOOR Knock on Vol.2"
@@ -15,161 +15,166 @@ print("5", s5)
 print("──── ୨୧ ────")
 con = input("Choose your stage (1/2/3/4/5) : ")
 if con == "1" :
-    print("Now chosen : ", s1)
-    print("Available zone : A1/A2/A3/VIP")
-    seat = input("Please choose a zone : ")
+    print("Now chosen: ", s1)
+    print("Available zone: A1/A2/A3/VIP")
+    seat = input("Please choose a zone: ")
     if seat == "A1" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s1, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     elif seat == "A2" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s1, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     elif seat == "A3" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s1, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     else:
         print("Randoming seat number . . .")
         print(s1, ", zone :",seat, ", You can check your seat number in your email")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
 elif con == "2" :
-    print("Now chosen : ", s2)
-    print("Available zone : A1/A2/A3/VIP")
-    seat = input("Please choose a zone : ")
+    print("Now chosen: ", s2)
+    print("Available zone: A1/A2/A3/VIP")
+    seat = input("Please choose a zone: ")
     if seat == "A1" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s2, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     elif seat == "A2" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s2, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     elif seat == "A3" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s2, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     else:
         print("Randoming seat number . . .")
         print(s2, ", zone :",seat, ", You can check your seat number in your email")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
 elif con == "3" :
-    print("Now chosen : ", s3)
-    print("Available zone : A1/A2/A3/VIP")
-    seat = input("Please choose a zone : ")
+    print("Now chosen: ", s3)
+    print("Available zone: A1/A2/A3/VIP")
+    seat = input("Please choose a zone: ")
     if seat == "A1" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s3, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     elif seat == "A2" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s3, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     elif seat == "A3" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s3, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     else:
         print("Randoming seat number . . .")
         print(s3, ", zone :",seat, ", You can check your seat number in your email")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
 elif con == "4" :
-    print("Now chosen : ", s4)
-    print("Available zone : A1/A2/A3/VIP")
-    seat = input("Please choose a zone : ")
+    print("Now chosen: ", s4)
+    print("Available zone: A1/A2/A3/VIP")
+    seat = input("Please choose a zone: ")
     if seat == "A1" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s4, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     elif seat == "A2" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s4, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     elif seat == "A3" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s4, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     else:
         print("Randoming seat number . . .")
         print(s4, ", zone :",seat, ", You can check your seat number in your email")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
 elif con == "5" :
-    print("Now chosen : ", s5)
-    print("Available zone : A1/A2/A3/VIP")
-    seat = input("Please choose a zone : ")
+    print("Now chosen: ", s5)
+    print("Available zone: A1/A2/A3/VIP")
+    seat = input("Please choose a zone: ")
     if seat == "A1" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s5, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     elif seat == "A2" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s5, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert.☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert. ☘︎ ݁˖")
     elif seat == "A3" :
         print("Please select a seat (1-10)")
-        seat2 = input("Seat number : ")
+        seat2 = input("Seat number: ")
         print(s5, ", zone :",seat, ", Seat number",seat2, "is now booked")
-        print("Thanks for booking! Hope you enjoy your concert .☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert . ☘︎ ݁˖")
     else:
         print("Randoming seat number . . .")
         print(s5, ", zone :",seat, ", You can check your seat number in your email")
-        print("Thanks for booking! Hope you enjoy your concert .☘︎ ݁˖")
+        print("Thanks for booking! Hope you enjoy your concert . ☘︎ ݁˖")
 else:
     print("⤷ ゛Please try again ˎˊ˗")
 
-## Project overview : This project is a simulated concert ticket booking system developed using Python.
+## Project Overview 
+This project is a simulated concert ticket booking system developed using Python.
 The main objective is to design a booking process that is simple, clear, and user-friendly.
 The system focuses on presenting seat zones, pricing, and booking confirmation steps in a structured way to reduce user confusion.
 
 
-## Problem : From my personal experience booking concert tickets, I found that many systems are confusing and stressful to use.
+## Problem 
+From my personal experience booking concert tickets, I found that many systems are confusing and stressful to use.
 As a user, I often faced too many steps, scattered information, and unclear seat and price details.
 This made me feel uncertain and worried about making mistakes during the booking process.
 
-## Goal : The goal of this project is to design a concert ticket booking system based on real user experience.
+## Goal 
+The goal of this project is to design a concert ticket booking system based on real user experience.
 It aims to simplify the booking process by clearly summarizing seat zones, prices, and confirmation steps
 so that users can make decisions with more confidence and less stress.
 
-## Program flow :
+## Program flow 
 - The user selects a concert.
 - The user selects a seat zone.
 - The system displays the available zones.
 - The user selects a seat number.
-- The system summarizes all booking informaion.
+- The system summarizes all booking information.
 
-## Process : I started by reflecting on my own experience as a user and identifying the main pain points in existing booking systems.
+## Process 
+I started by reflecting on my own experience as a user and identifying the main pain points in existing booking systems.
 Then, I broke the booking process into clear steps from a user's perspective.
 After designing the program flow, I implemented the system using Python based on this structure.
 
-## What I learned : 
+## What I learned  
 - How to identify problems from real user experiences.
 - The importance of designing digital systems from a user-centered perspective.
 - How planning a clear program flow before coding improves usability and clarity.
 
-## Tool : VS Code, Online Python
+## Tools 
+VS Code, Online Python
 
-## Target user :
+## Target user 
 - Users who want to book concert tickets.
 - General users who are not comfortable with complex online systems.
 
-## Next step : 
+## Next step 
 - Add more seat zones and options based on different user preferences.
 - Implement phone number and email validation to reduce user errors.
 - Add real-time seat availability to reflect real booking scenarios.
-- Further improve the system based on potentail user feedback.
+- Further improve the system based on potential user feedback.
         
