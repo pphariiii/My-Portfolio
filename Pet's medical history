@@ -107,3 +107,45 @@ else:
     print("Couldn't find your pet name, please try again")
     exit()
 
+## Project Overview 
+This project is intended to simulate a dog health record book. 
+It stores and records information such as vaccination dates, vaccines administered, and the dog’s medical history
+
+
+## Problem 
+The problem is that physical medical record books can easily be lost and are not convenient to use. 
+In addition, the information may become inaccurate due to ink fading or smudging in the book.
+
+## Goal 
+The goal of this project is to record data on a computer 
+so that the records will not be lost and the information c
+an be easily accessed and verified with greater accuracy.
+
+## Program flow 
+- The user insert pet's owner name
+- The user insert pet's name.
+- The user selects medical services.
+- The system display your services you chosed.
+
+## Process 
+I have five dogs at home and need to take them to the clinic every year. 
+I am concerned that their medical record books might be lost, so I decided to store their information on a computer.
+This allows the data to be easily reviewed and eliminates concerns about losing 
+the record books or unclear information caused by ink bleeding.
+
+## What I learned  
+- Recording data in code
+- Systematic thinking
+- Planning program execution.
+
+## Tools 
+VS Code, Online Python
+
+## Target Users 
+- My family
+- Myself
+
+## Next Steps
+- Further improve the system based on more information
+        
+
