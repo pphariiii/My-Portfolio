@@ -6,8 +6,8 @@ b = "Medical history"
 
 if pname == "Kaitoon" :
     print("Hello",name,",How can I help you with your pet,", pname,"?")
-    print("1.Pet's personal history")
-    print("2.Medical history")
+    print("a.Pet personal history")
+    print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
     if h == "a" :
         print("Name:",pname)
@@ -26,8 +26,8 @@ if pname == "Kaitoon" :
         
 elif pname == "Taohu" :
     print("Hello," ,name,",How can I help you with your pet,", pname,"?")
-    print("1.Pet's personal history")
-    print("2.Medical history")
+    print("a.Pet personal history")
+    print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
     if h == "a" :
         print("Name:",pname)
@@ -46,8 +46,8 @@ elif pname == "Taohu" :
         
 elif pname == "Fongfong" :
     print("Hello," ,name,",How can I help you with your pet,", pname,"?")
-    print("1.Pet's personal history")
-    print("2.Medical history")
+    print("a.Pet personal history")
+    print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
     if h == "a" :
         print("Name:",pname)
@@ -66,8 +66,8 @@ elif pname == "Fongfong" :
         
 elif pname == "Fongfu" :
     print("Hello," ,name,",How can I help you with your pet,", pname,"?")
-    print("1.Pet's personal history")
-    print("2.Medical history")
+    print("a.Pet personal history")
+    print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
     if h == "a" :
         print("Name:",pname)
@@ -86,8 +86,8 @@ elif pname == "Fongfu" :
         
 elif pname == "Fufu" :
     print("Hello," ,name,",How can I help you with your pet,", pname,"?")
-    print("1.Pet's personal history")
-    print("2.Medical history")
+    print("a.Pet personal history")
+    print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
     if h == "a" :
         print("Name:",pname)
@@ -104,7 +104,7 @@ elif pname == "Fufu" :
         print("ERROR, please try again")
         exit()
 else:
-    print("Couldn't find your pet name, please try again")
+    print("Couldn't find your pet's name, please try again")
     exit()
 
 ## Project Overview 
