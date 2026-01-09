@@ -1,11 +1,9 @@
 ## my dogs medical history
 name = input("Please insert your name: ")
 pname = input("Please insert your pet's name: ")
-a = "Pet's personal history"
-b = "Medical history"
 
 if pname == "Kaitoon" :
-    print("Hello",name,",How can I help you with your pet,", pname,"?")
+    print("Hello", name,", How can I help you with your pet,", pname,"?")
     print("a.Pet personal history")
     print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
@@ -25,7 +23,7 @@ if pname == "Kaitoon" :
         exit()
         
 elif pname == "Taohu" :
-    print("Hello," ,name,",How can I help you with your pet,", pname,"?")
+    print("Hello," , name,", How can I help you with your pet,", pname,"?")
     print("a.Pet personal history")
     print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
@@ -45,14 +43,14 @@ elif pname == "Taohu" :
         exit()
         
 elif pname == "Fongfong" :
-    print("Hello," ,name,",How can I help you with your pet,", pname,"?")
+    print("Hello," , name,", How can I help you with your pet,", pname,"?")
     print("a.Pet personal history")
     print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
     if h == "a" :
         print("Name:",pname)
         print("Birthday: 08/09/2025")
-        print("Age: 0.4 y/o")
+        print("Age: 4 months")
         print("Gender: Male")
     elif h == "b" :
         print("24/10/2025 Distemper vaccine")
@@ -65,14 +63,14 @@ elif pname == "Fongfong" :
         exit()
         
 elif pname == "Fongfu" :
-    print("Hello," ,name,",How can I help you with your pet,", pname,"?")
+    print("Hello," , name,", How can I help you with your pet,", pname,"?")
     print("a.Pet personal history")
     print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
     if h == "a" :
         print("Name:",pname)
         print("Birthday: 08/09/2024")
-        print("Age: 0.4 y/o")
+        print("Age: 4 months")
         print("Gender: Female")
     elif h == "b" :
         print("24/10/2025 Distemper vaccine")
@@ -85,14 +83,14 @@ elif pname == "Fongfu" :
         exit()
         
 elif pname == "Fufu" :
-    print("Hello," ,name,",How can I help you with your pet,", pname,"?")
+    print("Hello," , name,", How can I help you with your pet,", pname,"?")
     print("a.Pet personal history")
     print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
     if h == "a" :
         print("Name:",pname)
         print("Birthday: 08/09/2025")
-        print("Age: 0.4 y/o")
+        print("Age: 4 months")
         print("Gender: Male")
     elif h == "b" :
         print("24/10/2025 Distemper vaccine")
