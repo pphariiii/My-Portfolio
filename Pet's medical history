@@ -3,7 +3,7 @@ name = input("Please insert your name: ")
 pname = input("Please insert your pet's name: ")
 
 if pname == "Kaitoon" :
-    print("Hello", name,", How can I help you with your pet,", pname,"?")
+    print("Hello", name, ", How can I help you with your pet", pname, "?")
     print("a.Pet personal history")
     print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
@@ -23,7 +23,7 @@ if pname == "Kaitoon" :
         exit()
         
 elif pname == "Taohu" :
-    print("Hello," , name,", How can I help you with your pet,", pname,"?")
+    print("Hello", name, ", How can I help you with your pet", pname, "?")
     print("a.Pet personal history")
     print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
@@ -43,7 +43,7 @@ elif pname == "Taohu" :
         exit()
         
 elif pname == "Fongfong" :
-    print("Hello," , name,", How can I help you with your pet,", pname,"?")
+    print("Hello", name, ", How can I help you with your pet", pname, "?")
     print("a.Pet personal history")
     print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
@@ -63,7 +63,7 @@ elif pname == "Fongfong" :
         exit()
         
 elif pname == "Fongfu" :
-    print("Hello," , name,", How can I help you with your pet,", pname,"?")
+    print("Hello", name, ", How can I help you with your pet", pname, "?")
     print("a.Pet personal history")
     print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
@@ -83,7 +83,7 @@ elif pname == "Fongfu" :
         exit()
         
 elif pname == "Fufu" :
-    print("Hello," , name,", How can I help you with your pet,", pname,"?")
+    print("Hello", name, ", How can I help you with your pet", pname, "?")
     print("a.Pet personal history")
     print("b.Medical history")
     h = input("Insert 'a' or 'b': ")
