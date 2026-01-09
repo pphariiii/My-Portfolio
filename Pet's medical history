@@ -1,4 +1,4 @@
-## my dogs history
+## my dogs medical history
 name = input("Please insert your name: ")
 pname = input("Please insert your pet's name: ")
 a = "Pet's personal history"
@@ -15,7 +15,10 @@ if pname == "Kaitoon" :
         print("Age: 5 y/o")
         print("Gender: Female")
     elif h == "b" :
-        print("Medical histor not found")
+        print("24/10/2025 Distemper vaccine")
+        print("7/11/2025 Parainfluenza vaccine")
+        print("29/11/2025 Adenovirus vaccine")
+        print("29/11/2025 Rabies vaccine")
         exit()
     else:
         print("ERROR, please try again")
@@ -32,7 +35,10 @@ elif pname == "Taohu" :
         print("Age: 2 y/o")
         print("Gender: Male")
     elif h == "b" :
-        print("Medical histor not found")
+        print("24/10/2025 Distemper vaccine")
+        print("7/11/2025 Parainfluenza vaccine")
+        print("29/11/2025 Adenovirus vaccine")
+        print("29/11/2025 Rabies vaccine")
         exit()
     else:
         print("ERROR, please try again")
@@ -49,7 +55,10 @@ elif pname == "Fongfong" :
         print("Age: 0.4 y/o")
         print("Gender: Male")
     elif h == "b" :
-        print("Medical histor not found")
+        print("24/10/2025 Distemper vaccine")
+        print("7/11/2025 Parainfluenza vaccine")
+        print("29/11/2025 Adenovirus vaccine")
+        print("29/11/2025 Rabies vaccine")
         exit()
     else:
         print("ERROR, please try again")
@@ -66,7 +75,10 @@ elif pname == "Fongfu" :
         print("Age: 0.4 y/o")
         print("Gender: Female")
     elif h == "b" :
-        print("Medical histor not found")
+        print("24/10/2025 Distemper vaccine")
+        print("7/11/2025 Parainfluenza vaccine")
+        print("29/11/2025 Adenovirus vaccine")
+        print("29/11/2025 Rabies vaccine")
         exit()
     else:
         print("ERROR, please try again")
@@ -83,7 +95,10 @@ elif pname == "Fufu" :
         print("Age: 0.4 y/o")
         print("Gender: Male")
     elif h == "b" :
-        print("Medical histor not found")
+        print("24/10/2025 Distemper vaccine")
+        print("7/11/2025 Parainfluenza vaccine")
+        print("29/11/2025 Adenovirus vaccine")
+        print("29/11/2025 Rabies vaccine")
         exit()
     else:
         print("ERROR, please try again")
@@ -91,3 +106,4 @@ elif pname == "Fufu" :
 else:
     print("Couldn't find your pet name, please try again")
     exit()
+
