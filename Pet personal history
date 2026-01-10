@@ -17,10 +17,10 @@ if pname == "Kaitoon" :
         print("7/11/2025 Parainfluenza vaccine")
         print("29/11/2025 Adenovirus vaccine")
         print("29/11/2025 Rabies vaccine")
-        exit()
+        sys.exit()
     else:
         print("ERROR, please try again")
-        exit()
+        sys.exit()
         
 elif pname == "Taohu" :
     print("Hello", name, ", How can I help you with your pet", pname, "?")
@@ -37,10 +37,10 @@ elif pname == "Taohu" :
         print("7/11/2025 Parainfluenza vaccine")
         print("29/11/2025 Adenovirus vaccine")
         print("29/11/2025 Rabies vaccine")
-        exit()
+        sys.exit()
     else:
         print("ERROR, please try again")
-        exit()
+        sys.exit()
         
 elif pname == "Fongfong" :
     print("Hello", name, ", How can I help you with your pet", pname, "?")
@@ -57,10 +57,10 @@ elif pname == "Fongfong" :
         print("7/11/2025 Parainfluenza vaccine")
         print("29/11/2025 Adenovirus vaccine")
         print("29/11/2025 Rabies vaccine")
-        exit()
+        sys.exit()
     else:
         print("ERROR, please try again")
-        exit()
+        sys.exit()
         
 elif pname == "Fongfu" :
     print("Hello", name, ", How can I help you with your pet", pname, "?")
@@ -77,10 +77,10 @@ elif pname == "Fongfu" :
         print("7/11/2025 Parainfluenza vaccine")
         print("29/11/2025 Adenovirus vaccine")
         print("29/11/2025 Rabies vaccine")
-        exit()
+        sys.exit()
     else:
         print("ERROR, please try again")
-        exit()
+        sys.exit()
         
 elif pname == "Fufu" :
     print("Hello", name, ", How can I help you with your pet", pname, "?")
@@ -97,13 +97,13 @@ elif pname == "Fufu" :
         print("7/11/2025 Parainfluenza vaccine")
         print("29/11/2025 Adenovirus vaccine")
         print("29/11/2025 Rabies vaccine")
-        exit()
+        sys.exit()
     else:
         print("ERROR, please try again")
-        exit()
+        sys.exit()
 else:
     print("Couldn't find your pet's name, please try again")
-    exit()
+    sys.exit()
 
 ## Project Overview 
 This project is intended to simulate a dog health record book. 
@@ -120,10 +120,10 @@ so that the records will not be lost, and the information
 can be easily accessed and verified more accurately.
 
 ## Program flow 
-- The user insert pet's owner name
-- The user insert pet's name.
+- The user inserts the pet owner's name.
+- The user inserts the pet's name.
 - The user selects medical services.
-- The system display your services you chose.
+- The system displays the selected service.
 
 ## Process 
 I have five dogs at home and need to take them to the clinic every year. 
