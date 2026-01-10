@@ -1,4 +1,4 @@
-## my dogs medical history
+## my dog's personal history
 name = input("Please insert your name: ")
 pname = input("Please insert your pet's name: ")
 
